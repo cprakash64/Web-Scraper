@@ -1,0 +1,10 @@
+{"installed":
+    {"client_id":"785490068493-sesd00ugekpmn1vb57smb2mff5l1nnv6.apps.googleusercontent.com",
+    "project_id":"memeshub-channel",
+    "auth_uri":"https://accounts.google.com/o/oauth2/auth",
+    "token_uri":"https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret":"cFr0Av6znh5RWkyWAMdLaGBC",
+    "redirect_uris":["urn:ietf:wg:oauth:2.0:oob","http://localhost"]
+    }
+}
